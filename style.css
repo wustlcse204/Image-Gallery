@@ -1,0 +1,25 @@
+.small{
+  width:300px;
+}
+
+.smallimg{
+  width:100%
+}
+
+.small .buttons {
+  display:none;
+}
+
+#zoomed{
+  position: absolute;
+  top: 1em;
+  left: 1em;
+}
+
+.large .buttons {
+  display: block;
+}
+
+.hidden{
+  display: none;
+}
